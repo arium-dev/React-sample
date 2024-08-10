@@ -1,0 +1,14 @@
+export const AUD = "AUD";
+export const AMOUNT_IN_AUD = "amountInAud";
+export const AMOUNT_RECEIVED = "amountReceived";
+export const FEE_AMOUNT = "feeAmount";
+export const CURRENCY_RATE = "currencyRate";
+export const CURRENCY_CODE = "currencyCode";
+export const DESTINATION_CURRENCY = "destinationCurrency";
+export const EXCHANGE_CURRENCY_ID = "exchangeCurrencyId";
+export const CREATE = "Create";
+export const SUBMIT = "Submit";
+export const FORM_TITLE = "Exchange rates";
+export const UPDATE = "Update";
+export const SEVEN = 7;
+export const NINE = 9;

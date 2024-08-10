@@ -1,0 +1,9 @@
+export const DONUT = "donut";
+export const TOTAL_ASSET = "Total Asset";
+export const CHART_LABELS = ["VIP", "Reguler", "Exclusive", "Economic"];
+export const ALERT = "Alert";
+export const ALERT_HEADING = "Are you sure you want to do this action?";
+export const CONFIRM = "Confirm";
+export const CANCEL = "Cancel";
+export const WARNING = "warning";
+export const DASHBOARD = "Dashboard";

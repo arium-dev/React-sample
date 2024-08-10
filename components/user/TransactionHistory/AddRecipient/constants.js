@@ -1,0 +1,12 @@
+export const FIRST_NAME = "firstName";
+export const LAST_NAME = "lastName";
+export const EMAIL = "email";
+export const ACCEPT_TERM = "acceptTerm";
+export const ACCEPT_OUR = "Accept our";
+export const TERM_AND_CONDITIONS = "Terms and Conditions";
+export const EXISTING_USER = "Existing User";
+export const NON_EXISTING_USER = "Non-Existing User";
+export const ANONYMOUS = "Anonymous";
+export const ADD = "Add";
+export const SEND_VIA_INVITATION = "Send via invitation";
+export const NEXT = "Next";

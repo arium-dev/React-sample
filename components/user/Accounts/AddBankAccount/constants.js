@@ -1,0 +1,9 @@
+export const BSB = "bsb";
+export const BANK_ACCOUNT_NUMBER = "accountNumber";
+export const BANK_ACCOUNT_TITLE = "accountTitle";
+export const CREATE = "Create";
+export const SUBMIT = "Submit";
+export const FORM_TITLE = "Add Bank Account";
+export const UPDATE = "Update";
+export const SEVEN = 7;
+export const NINE = 9;
